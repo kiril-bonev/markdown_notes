@@ -116,3 +116,52 @@ How to avoid - Acknowledge you maybe made a first impression, based on this pers
 It is illegal to ask about current remuneration and bonuses, in many parts of the world. Instead, one must:
 1. Define a pay range for the role
 2. Assign the offer amount based on what is expected the candidate to be able to deliver
+
+## Condidate experience during the interview
+
+>  What we focus on in the interview tells the candidate what we value, what we focus on in the interview is part of our selling process. We're telling the candidate, we put weight in this and not that. 
+
+1. Preparing the candidates
+
+What information can we send in advance? We should not be sending too much as not everyone can prepare for it, but still something, could be a task as well. Discuss what they should expect from the interview.
+
+2. Make sure they will meet the correct people - Interviewing team (s. above)
+3. Prepare for the candidate - don't walk in cold, check LinkedIn and read thoroughly the resume
+4. Give realistic preview of the job
+
+### Selling to top talent
+
+Motivators of top-performers (hierarchy of motivators):
+0. Base layer/minimum: Salary/Remuneration and bonuses; opportunity to learn and grow; work-life balance
+1. Challenge - Top talent is looking for interesting, challenging work. They get bored easily. They want to know that whatever problems they're working on, whatever it is that their job has day to day, there's something that's going to keep them engaged and kind of remain interesting over time.
+2. Learn - They get bored easily, as I said, so they like challenges but they also want to make sure they're getting smarter in their job. They don't want to come to your company and feel like they're getting dumber. They want to feel like they're getting smarter. So they want to learn from smart bosses like you from smart colleagues, they want opportunities to work on interesting projects that kind of stretch them a bit.
+3. Impact - They want to feel like whatever it is they're doing makes a difference and they can see that impact and they understand the impact.
+4. Autonomy and flexibility - They don't want to be micromanaged and they want to have the opportunity to kind of choose their own adventure a little bit in their job.
+
+Uncover the internal motivation of the cantidates - questions:
+
+> What do you hope would be the same or different if were to join our company? You already work at a good company now. What do you hope would be similar? What do you hope would be different about this job?
+>
+> Are you on track to achieve your career goals in the next two years? What are your career goals? And are you feeling like you're tracking?
+>
+> Tell me about your dream manager, dream team?
+
+1. Challenge - What kind of interesting, challenging problems do you love to tackle, why? What percentage of your time now do you get to spend on that kind of work?
+
+Challenges and topic that the candidate will be working on at this role.
+
+2. Learn - What's something you wanna learn in the next year or two to advance your career? Are you on track to learn that stuff? Do you think you'd be able to learn that stuff faster, or get more exposure, more learning if you were here versus your current company? How good of a job how is your current company doing to set you up to learn that stuff?
+
+Not only what, but also from whom they will be learning from - the manager, peers, cross functions, company legacy, etc.
+
+3. Impact - What kind of impact do you wanna make? And what's keeping you from making a big impact or that kind of impact now in your current job?
+
+Create a great before and after story. What is the company/role right now and what it shall become. What the employee would be able to tell its grandchildren one day?
+
+4. Autonomy and flexibility - [Nothing mentioned as questions to identify]
+
+***Define the EVP (Employer Value Proposition) for the role. What is it in for the candidate?***
+This is build on 3 levels:
+1. Why this company?
+2. Why this function (Finance, Marketing, HR)?
+3. Why this job/team in particular?
