@@ -1,6 +1,12 @@
 # Recruitement training
 
+---------------------
+
+<br><br>
+
 ## 1. Hiring criteria
+
+<br><br>
 
 Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evidence-based hiring criteria, such as:
 
@@ -61,7 +67,11 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 ---------------------------
 
+<br><br>
+
 ## 2. Interviewing Lite
+
+<br><br>
 
 >  How do you know if their answer's any good, is it just okay, is it good, is it great, is it bad? It's key that we know what good versus bad answers sound like before we ask the question. Otherwise we may just kind of make it up as we go or not know where to stop or not know whether we can move on or not. And frankly, we can create a really unfair process if we make it up as we go. And if we don't know this we may let a smooth talking candidate, you know, someone who's good at talking not necessarily good at performing, but a good talker they may convince us they're good when they're actually not.
 
@@ -117,7 +127,13 @@ It is illegal to ask about current remuneration and bonuses, in many parts of th
 1. Define a pay range for the role
 2. Assign the offer amount based on what is expected the candidate to be able to deliver
 
+---------------------
+
+<br><br>
+
 ## 3. Candidate experience during the interview
+
+<br><br>
 
 >  What we focus on in the interview tells the candidate what we value, what we focus on in the interview is part of our selling process. We're telling the candidate, we put weight in this and not that. 
 
@@ -129,7 +145,13 @@ What information can we send in advance? We should not be sending too much as no
 3. Prepare for the candidate - don't walk in cold, check LinkedIn and read thoroughly the resume
 4. Give realistic preview of the job
 
+--------------------------
+
+<br><br>
+
 ## 4. Selling to top talent
+
+<br><br>
 
 Motivators of top-performers (hierarchy of motivators):
 0. Base layer/minimum: Salary/Remuneration and bonuses; opportunity to learn and grow; work-life balance
@@ -166,7 +188,13 @@ This is build on 3 levels:
 2. Why this function (Finance, Marketing, HR)?
 3. Why this job/team in particular?
 
+---------------------------
+
+<br><br>
+
 ## 5. Onboard and re-board employees
+
+<br><br>
 
 Flexible conversation-based approach to fit your day-to-day routine and continue over time. These conversations will help you keep your talent longer and be their best while they're with you.
 
