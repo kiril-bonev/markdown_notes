@@ -65,3 +65,54 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 >  How do you know if their answer's any good, is it just okay, is it good, is it great, is it bad? It's key that we know what good versus bad answers sound like before we ask the question. Otherwise we may just kind of make it up as we go or not know where to stop or not know whether we can move on or not. And frankly, we can create a really unfair process if we make it up as we go. And if we don't know this we may let a smooth talking candidate, you know, someone who's good at talking not necessarily good at performing, but a good talker they may convince us they're good when they're actually not.
 
+We need to thing about the following points to each answer:
+- What's the significance of what they shared? - Hard to implement / High Impact / Critical to the team?
+- What did they do specifically? - Was it too high-level answer?
+- How did they do it? - How did you make the business case? Specifically, what was your role? What data did you use? How did you frame it up? How did you influence that finance leader? How much were you talking and how much was your boss talking in the room? How did you actually get the money?
+
+***KB: I like to follow the framework - What? How/Why did it happen? So what/What is the result thereof?***
+
+> Problem solving skills = How smart a person is
+
+What to be attentive during situational questions (Show me...):
+- Did they scope out the problem well before diving in? Did they ask you good questions before launching into the role play, starting to problem solve? Did they clarify assumptions? Did they get into the details of the case study before they just launched in and started solving? If they got stuck, did they ask for help or could you help them with real-time feedback to get unstuck without them becoming too defensive?
+- Can they explain their reasoning? Why they're approaching it that way versus this way. How they solve for X, and what they'd do if the situation were a little different? So maybe they solved it one way, and it's fine, but you were really hoping for a different way of solving it.
+- Do they seem to engage in this? Do they lean in? Do they appear to enjoy it? This is a big part of understanding intrinsic motivation.
+
+> But also remember they don't work here, they haven't spent two years thinking about this problem like maybe you have. They haven't spent hours ruling out all the solutions that won't work in your particular environment. So give them some grace.
+
+> In my 15 years or so of consulting, I've asked, well over 100 HR leaders, why do people fail on the job? And you know what I would say, one or 2% of the time they talk about some technical skill, the candidate didn't have. It's almost always, always, the failure was caused by something like a competency or behavior they lacked. Maybe they weren't adaptable enough. Maybe they weren't good at collaborating.
+
+### Lying candidates and how to avoid it
+
+1. Dig!
+
+*Digging is the key to separating good talkers from people who were actually good performers. It separates people who are maybe in the room from people who actually did the work.*
+
+2. Body language - not too apparent and often could be caused by stress, etc. Can be used but to avoid.
+
+### Biases during interviewing
+
+1. Confirmation bias
+
+This is where you basically go into an interview and you seek out information that confirms your preexisting ideas about the candidate. So I know you worked in government for 10 years, so I'm gonna ask you a lot of questions that just confirmed that your projects took years to complete and it was super bureaucratic and you had lots and lots of people involved
+
+How to avoid - Stay focused on objective hiring criteria, get breadth and depth by assigning different focus areas to different interviewers.
+
+2. Affinity bias (similarity/likability bias)
+
+We share something in common, so I like you. We both worked at or graduated or looked to be about the same age, we have something in common, so to me, you remind me a lot of myself, and therefore, you're a natural fit here.
+
+How to avoid - Make sure you stay connected to your objective hiring criteria, evaluate the whole candidate against the whole job. And don't just make a lot of positive, kind of, give the candidate benefit of the doubt.
+
+3. First impression bias
+
+Judge someone in the first two seconds or 30 seconds based on how they look. You wore a tie or formal jacket to our startup company interview, or you wore jeans to a banking interview, something like that, and I decided, "Oh, they're not gonna be a good fit, they didn't make eye contact with me the way I wanted, they didn't smile when I said something funny, their handshake wasn't as firm as I expected, therefore, they're not gonna be good for this company."
+
+How to avoid - Acknowledge you maybe made a first impression, based on this person, but please pause and continue the interview and try not to let that first impression impact how think about the person. Continue on with your question, even if your first impression wasn't positive, continue on with your questions, use your objective hiring criteria and come to a conclusion at the end, based on actual evidence.
+
+### Pay legislation
+
+It is illegal to ask about current remuneration and bonuses, in many parts of the world. Instead, one must:
+1. Define a pay range for the role
+2. Assign the offer amount based on what is expected the candidate to be able to deliver
