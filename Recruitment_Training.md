@@ -1,6 +1,6 @@
 # Recruitement training
 
-## Hiring criteria
+## 1. Hiring criteria
 
 Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evidence-based hiring criteria, such as:
 
@@ -21,7 +21,7 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 > Many times for skills, the best way to evaluate skills is to leverage more of a situational question, so you can ask someone 10 questions about how Excel works, but wouldn't it be better or faster to open a laptop, and give them a spreadsheet with data on it, and ask them to use Excel and create, you know, pivot tables or to, you know, sum a column, or something like that?
 
-### Good vs. Bad Hiring Criteria
+### 1.1 Good vs. Bad Hiring Criteria
 
 > So, bad hiring criteria would be something like a top-rated university degree or worked only at a cool company or 10 years of experience, or, you know, firm handshake.
 
@@ -29,7 +29,7 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 *KB: However, I still believe that top-rated university sends a signal of someone who puts value into their future choices and someone who is inclined to walt the extra mile. Same for the company background. We cannot expect someone just after university to have sold 100 mio. USD software in Asia, and we should not disqualify based on this...*
 
-### Who to be part of the interviewing team
+### 1.2 Who to be part of the interviewing team
 
 - Should manager-level candidates get interviewed by their future or potential direct reports?
 
@@ -43,7 +43,7 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 > Many recruiting teams are too busy sourcing, screening, scheduling, and closing to do full 60-minute on-site or final interviews. So this is like, yeah, it'd be nice, but a lot of organizations we work with, they just don't have time to do a full behavioral interview.
 
-### Building own hiring criteria
+### 1.3 Building own hiring criteria
 
 - 2-3 critical skills (Deal Breakers) - Tools, expertese, knowledge in math/languages/coding
 - 3-4 key behaviours / competencies (how they do what they will be doing): E.g. adaptability or learning agility or problem solving or collaboration
@@ -53,7 +53,7 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 - 1 big achievement - That you'd expect someone who is successful in this job to have already done in the past.
 
-### Building interview questions
+### 1.4 Building interview questions
 
 1. Tell me about a time... questions - behavioral / for achievements
 2. Show me... questions - situational / for skills
@@ -61,7 +61,7 @@ Avoid using wordings such as 'A-Player', 'Passionate', etc. Focus instead on evi
 
 ---------------------------
 
-## Interviewing Lite
+## 2. Interviewing Lite
 
 >  How do you know if their answer's any good, is it just okay, is it good, is it great, is it bad? It's key that we know what good versus bad answers sound like before we ask the question. Otherwise we may just kind of make it up as we go or not know where to stop or not know whether we can move on or not. And frankly, we can create a really unfair process if we make it up as we go. And if we don't know this we may let a smooth talking candidate, you know, someone who's good at talking not necessarily good at performing, but a good talker they may convince us they're good when they're actually not.
 
@@ -83,7 +83,7 @@ What to be attentive during situational questions (Show me...):
 
 > In my 15 years or so of consulting, I've asked, well over 100 HR leaders, why do people fail on the job? And you know what I would say, one or 2% of the time they talk about some technical skill, the candidate didn't have. It's almost always, always, the failure was caused by something like a competency or behavior they lacked. Maybe they weren't adaptable enough. Maybe they weren't good at collaborating.
 
-### Lying candidates and how to avoid it
+### 2.1 Lying candidates and how to avoid it
 
 1. Dig!
 
@@ -91,7 +91,7 @@ What to be attentive during situational questions (Show me...):
 
 2. Body language - not too apparent and often could be caused by stress, etc. Can be used but to avoid.
 
-### Biases during interviewing
+### 2.2 Biases during interviewing
 
 1. Confirmation bias
 
@@ -111,13 +111,13 @@ Judge someone in the first two seconds or 30 seconds based on how they look. You
 
 How to avoid - Acknowledge you maybe made a first impression, based on this person, but please pause and continue the interview and try not to let that first impression impact how think about the person. Continue on with your question, even if your first impression wasn't positive, continue on with your questions, use your objective hiring criteria and come to a conclusion at the end, based on actual evidence.
 
-### Pay legislation
+### 2.3 Pay legislation
 
 It is illegal to ask about current remuneration and bonuses, in many parts of the world. Instead, one must:
 1. Define a pay range for the role
 2. Assign the offer amount based on what is expected the candidate to be able to deliver
 
-## Condidate experience during the interview
+## 3. Candidate experience during the interview
 
 >  What we focus on in the interview tells the candidate what we value, what we focus on in the interview is part of our selling process. We're telling the candidate, we put weight in this and not that. 
 
@@ -129,7 +129,7 @@ What information can we send in advance? We should not be sending too much as no
 3. Prepare for the candidate - don't walk in cold, check LinkedIn and read thoroughly the resume
 4. Give realistic preview of the job
 
-### Selling to top talent
+## 4. Selling to top talent
 
 Motivators of top-performers (hierarchy of motivators):
 0. Base layer/minimum: Salary/Remuneration and bonuses; opportunity to learn and grow; work-life balance
@@ -165,3 +165,75 @@ This is build on 3 levels:
 1. Why this company?
 2. Why this function (Finance, Marketing, HR)?
 3. Why this job/team in particular?
+
+## 5. Onboard and re-board employees
+
+Flexible conversation-based approach to fit your day-to-day routine and continue over time. These conversations will help you keep your talent longer and be their best while they're with you.
+
+### 5.1 Build relationships - the new alliance the new relationship that needs to be built and strengthened with you and with others
+
+> - People are your real work (KB: as a manager). Assimilating timeline and building that relationship is too important of a job to ignore or to delegate.
+>
+> - Take time to build rapport with them, listen to their concerns and their needs, their hopes, their wants, be a source of support and resource to them. Help them get to know the rest of the team.
+>
+> - Having friends at work is a huge retention factor.
+>
+> - Talk and listen, daily, weekly, monthly. Develop that strong relationship with every single person. They want you to know them well. Ask powerful questions and listen to build the relationship. Remember, they stay or go in large part because of you. And they do remember if you nurtured or neglected a relationship with them.
+
+Questions that can be asked when establishing a new report with a subordinate (e.g. when coming from outside to an incumbent team):
+1. What were some of the factors that led you to accept this particular job in the organization?
+2. What outside interests and activities help keep you energized for work?
+3. Which are your talents or strengths do you believe are likely to be the most important here?
+4. What more do you need to know about the organization, about your associates or about your customers to do the job well?
+5. How do you hope to be known in this organization?
+6. Do you prefer to work with others or work alone?
+
+### 5.2 Drive passion - surface individual preferences, and explore ways to support them
+
+> - The more opportunity the job offers employees to use their talents and pursue their interests, the more involved and engaged they'll be in their work.
+>
+> - **When was the last time you pulled your team together to ask for their ideas and encourage them to build on one another's creativity? When did you sit down with one of your own team members, and think together? You know, employees love the opportunity to think aloud with their managers, they want to blue sky with you occasionally, do you know who wants this most, who is nourished by just that kind of interaction? Have you made time for it? Have you made time for them?**
+
+Questions:
+1. When was the last time you said, felt, thought, I love my work? What were you doing?
+2. What are you most excited to do in this job?
+3. What do you do extremely well and with very little effort?
+4. What do you wish you had more time for?
+5. What do you enjoy learning about?
+
+
+### 5.3 Fuel challenge - set meaningful and relevant goals that build on strengths and address development needs
+
+> - **On one hand, we like to feel really competent in what we do and feeling competent means we have the skills to do our job and we know it and we do it well. On the other hand, we can get bored once we've mastered something and we require some new degree of challenge to stay interested.** We want to continue to learn and grow, either to achieve particular career goals or to pursue a personal interest.
+>
+> - It's been interesting to me that when I asked thousands of people in my research, not why did you leave your job, but why did you stay? - **The answer always had to do with the challenge.**
+
+- The correct mix of competence and challenge is different for every person. So it's important that you and your employee understand the unique set of skills and talents that your employee offers and the value provided to the organization
+- Understand that unique set of skills that the job itself requires and recognize the proficiency levels required to be successful in those jobs.
+
+Questions:
+1. What's the biggest challenge you are working on right now?
+2. What is a challenge you recently conquered?
+3. What part of your job do you consider the hardest, but you'd like to get better at it?
+4. What kind of challenges are you really looking for?
+5. What challenge do you most wish was not part of the job? What are those challenges that you continually avoid?
+
+### 5.4 Manage balance - explore the concerns and priorities that may impact job performance or satisfaction
+
+> Few managers really want to talk about the work-life with their team because I think they're afraid of the implications. Meaning it's opening an issue they can't solve. And I think you don't have to solve it, number one, but **you do need to talk about it and you do need to do something to make way for the balance they need even if you can't solve it.**
+
+Questions:
+1. What does balance really mean to you?
+2. Where are you currently investing your time and your energy?
+3. If you had the freedom to invest your time and energy differently where else might you choose to invest?
+4. What's happening in other areas of your life that might impact you at work?
+5. Who sends you the most your out of balance messages?
+
+### 5.5 Benefits of 5.1-5.4
+
+1. Improved retention rates. Less of those quick quits.
+2. Decrease time to productivity.
+3. Reduce recruiting costs.
+4. Bottom line in productivity. This means your organization becomes known as one that cares about its employees and their development and their wellbeing. The more you become known as a great place to work, the more easily you attract the best and the brightest.
+
+-------------------------------
